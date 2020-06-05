@@ -1,0 +1,12 @@
+{
+    "ID":"CB02C59AA74D11EABB370242AC130002",
+    "ActionKeyword":"p",
+    "Name":"Appendisso",
+    "Description":"Append your text to a file",
+    "Author":"mifegui",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"www.github.com/mifegui",
+    "IcoPath": "Images\\appendisso.png",
+    "ExecuteFileName":"Appendisso.dll" 
+  }
